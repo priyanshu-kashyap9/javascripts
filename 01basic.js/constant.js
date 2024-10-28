@@ -1,7 +1,7 @@
 const accountId =145236
 let accountEmail ="priyanshukashyap@gmail,com"
 var accountPassword ="874466256"
-accountcity ="chapra bihar"
+accountcity ="chapra "
 let accountState;
 
 console.table([accountId,accountEmail,accountPassword,accountcity]);
