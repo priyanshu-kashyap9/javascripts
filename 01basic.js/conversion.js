@@ -11,8 +11,8 @@ console.log(score);
 let value ="78"
 let bollenvalue =Boolean(value)
 console.log(bollenvalue);
-
-let values =7854
+    ~
+let values  =7854
 let stringnvalues =String(values)
 console.log(stringnvalues);
 console.log(typeof stringnvalues)
