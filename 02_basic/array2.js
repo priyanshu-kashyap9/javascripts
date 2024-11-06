@@ -3,12 +3,12 @@
 
 const marvel_hero = ["thoe","ironman","spiderman"]
 const Dc_hero = ["superman","flash","batman"]
-marvel_hero.push(Dc_hero)
-console.log(marvel_hero);
-console.log(marvel_hero[3][1]);
+// marvel_hero.push(Dc_hero)
+// console.log(marvel_hero);
+// console.log(marvel_hero[3][1]);
 
-const allheros = marvel_hero.concat(Dc_hero)
-console.log(allheros);
+// const allheros = marvel_hero.concat(Dc_hero)
+// console.log(allheros);
 
 // spread the operator in array 
 const all_new_heros = [...marvel_hero, ...Dc_hero ]
