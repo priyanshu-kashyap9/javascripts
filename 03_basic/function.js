@@ -20,9 +20,9 @@ function loginuser(username){
     if(username===undefined){
         console.log("please provide username");        
     }
-    return`${username} jsut log in the site  `
+    return`${username} log in the site  `
 }
 
 console.log(loginuser("priyanshu"));
 
-// the first part is complete function in the js 
+// the first part is complete function in the js in the function
