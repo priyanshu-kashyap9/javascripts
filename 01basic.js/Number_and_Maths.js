@@ -33,9 +33,11 @@ console.log(Math.random());
 
 const min = 10
 const max = 20
-console.log(Math.floor(Math.random() * (max-min +1)) + min ) ;
 console.log((Math.random() * (max-min +1)));
+console.log(Math.floor(Math.random() * (max-min +1)) + min ) ;
+ 
 
+// end the setion for know the num and math 
 
 
 

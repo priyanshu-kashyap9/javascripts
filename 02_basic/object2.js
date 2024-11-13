@@ -20,7 +20,7 @@ const regularuser ={
 
 console.log(regularuser.fullname.userfullname.firstname);
 
-// array merge 
+// array merge in object merge 
 
 const obj1 ={1: "a",2:"b"}
 const obj2 ={3: "a",4:"b"}
