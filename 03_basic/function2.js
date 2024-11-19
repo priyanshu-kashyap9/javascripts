@@ -25,6 +25,8 @@ handelobject(user)
 // Array 
 const mynewarray =[200,500,800,700]
 function returnsecondvaliue(getarrray){
-    return getarrray[0,2]
+    return getarrray[2]
 }
 console.log(returnsecondvaliue(mynewarray));
+
+
