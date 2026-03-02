@@ -8,7 +8,8 @@ console.table([accountId,accountEmail,accountPassword,accountcity]);
 
  accountEmail ="kashyap@gmail,com"
  accountPassword ="987512"
-accountcity ="DHANTEWARA"
+accountcity ="DHANTEWARA";
+
 
 
 console.table([accountEmail,accountId,accountPassword,accountcity,accountState])
