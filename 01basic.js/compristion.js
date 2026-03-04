@@ -9,7 +9,7 @@ console.log(2<1);
 // anothe type converrstion in js
 
 console.log("2"> 1);
-console.log(1 > "2");
+console.log(1 > "2")
 
 // up code is not allow  to use diffrent data types 
 
